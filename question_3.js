@@ -1,0 +1,1 @@
+const gascylinders = model.find({where: {userId: userId}}).join('Users', where:{userId: userId})

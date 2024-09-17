@@ -1,0 +1,25 @@
+Question 1
+write a function  that  calculates  the area of a triangle?
+
+Question 2
+The Fibonacci sequence is a series of numbers where each 
+successive number is equal to the sum of the two numbers that precede it.
+
+write a function that calculates the nth term in Fibonacci sequence?
+Question 3
+Given two existing MongoDB collections, **users** and **gasCylinders**, 
+where each user document has a reference (e.g., userId) to one or more 
+gasCylinders, write a MongoDB query that efficiently retrieves a specific user 
+document along with an array of all the gasCylinders associated with that user, 
+in a single database query.
+Question 4
+Suppose you live in a city where the streets are arranged in a perfect grid. 
+You decide to go for a walk, and at each intersection, you randomly choose your next direction.
+
+Your four options are NORTH, SOUTH, EAST, or WEST, and backtracking is allowed. Once your walk is finished, 
+you check how far you are from the point where you started. If you are more than 4 blocks away, 
+you'll pay for transport back home; otherwise, you'll walk.
+
+
+
+What is the longest random walk you can take so that, on average, you end up 4 blocks or fewer away from home?
